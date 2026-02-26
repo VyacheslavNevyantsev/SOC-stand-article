@@ -19,7 +19,7 @@ i use 4 virtual maschins:
    - NAT - DHCP.
 2. Ubuntu Server:
    - SOC-Blue - 10.20.20.10/24
-       gateway - 10.20.20.1
+       - gateway - 10.20.20.1
    - MGMT - 192.168.56.10/24
 3. Windows 11:
    - 10.20.20.100/24
