@@ -28,3 +28,9 @@ i use 4 virtual maschins:
    - 10.10.10.100/24
        - gateway - 10.10.10.1
 
+## Settings virtual mashins
+- [Ubuntu Router](mashins/UbuntuRouter)
+- [Ubuntu Server 24.04](mashins/UbuntuServer)
+- [Windows 11](mashins/Windows)
+- [Kali](mashins/Kali)
+- 
