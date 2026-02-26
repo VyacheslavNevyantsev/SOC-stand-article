@@ -14,19 +14,16 @@ i use 4 virtual maschins:
 
 ## VirtualBox networcks
 1. Ubuntu server:
-   - Host-Only
-   - SOC-Blue
-
+    - Host-Only;
+    - SOC-Blue.
 2.  Ubuntu (Router):
-    - SOC-Blue
-    - SOC-Red
-    - NAT
-
+    - SOC-Blue;
+    - SOC-Red;
+    - NAT.
 3. Windows 11:
-   - SOC-Blue.
-
+    - SOC-Blue.
 4. Kali:
-   - SOC-Red.
+    - SOC-Red.
 
 ## IP
 1. Ubunru (Router):
