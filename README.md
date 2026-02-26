@@ -33,4 +33,5 @@ i use 4 virtual maschins:
 - [Ubuntu Server 24.04](mashins/UbuntuServer)
 - [Windows 11](mashins/Windows)
 - [Kali](mashins/Kali)
-- 
+
+
