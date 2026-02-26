@@ -12,21 +12,8 @@ i use 4 virtual maschins:
    1. Wibe-site (python script).  
 4. Kali.
 
-## VirtualBox networcks
-1. Ubuntu server:
-    - Host-Only;
-    - SOC-Blue.
-2.  Ubuntu (Router):
-    - SOC-Blue;
-    - SOC-Red;
-    - NAT.
-3. Windows 11:
-    - SOC-Blue.
-4. Kali:
-    - SOC-Red.
-
-## IP
-1. Ubunru (Router):
+## VirtualBox networcks and IP
+1. Ubuntu (Router):
    - SOC-Red - 10.10.10.1/24;
    - SOC-Blue - 10.20.20.1/24;
    - NAT - DHCP.
