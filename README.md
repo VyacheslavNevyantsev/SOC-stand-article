@@ -17,9 +17,9 @@ i use 4 virtual maschins:
    - Host-Only
    - SOC-Blue
 2.  Ubuntu (Router):
-   - NAT
    - SOC-Blue
    - SOC-Red
+   - NAT
 3. Windows 11:
    - SOC-Blue.
 4. Kali:
