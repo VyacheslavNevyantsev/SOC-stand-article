@@ -16,12 +16,15 @@ i use 4 virtual maschins:
 1. Ubuntu server:
    - Host-Only
    - SOC-Blue
+
 2.  Ubuntu (Router):
    - SOC-Blue
    - SOC-Red
    - NAT
+
 3. Windows 11:
    - SOC-Blue.
+
 4. Kali:
    - SOC-Red.
 
