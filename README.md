@@ -23,8 +23,8 @@ i use 4 virtual maschins:
    - MGMT - 192.168.56.10/24
 3. Windows 11:
    - 10.20.20.100/24
-       gateway - 10.20.20.1
+       - gateway - 10.20.20.1
 4. Kali:
    - 10.10.10.100/24
-       gateway - 10.10.10.1
+       - gateway - 10.10.10.1
 
